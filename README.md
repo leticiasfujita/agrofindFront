@@ -1,12 +1,12 @@
 ## AgroFind
-draft: false
-language: pt-br
-featured_image: assets/icon/img/logoagro.svg
-summary: "Aplicativo de divulgação de anúncios agrícolas que conecta produtores e fornecedores de serviços no campo."
-author: Leticia
-categories: Blog
-tags: ["Agricultura", "Tecnologia", "Anúncios", "Serviços", "Negócios"]
-linkblog: "Link do blog sobre o AgroFind"
+- draft: false
+- language: pt-br
+- featured_image: assets/icon/img/logoagro.svg
+- summary: "Aplicativo de divulgação de anúncios agrícolas que conecta produtores e fornecedores de serviços no campo."
+- author: Leticia
+- categories: Blog
+- tags: ["Agricultura", "Tecnologia", "Anúncios", "Serviços", "Negócios"]
+- linkblog: "Link do blog sobre o AgroFind"
 
 O projeto tem como propósito criar uma plataforma para o agronegócio capaz de integrar agricultores e provedores de serviços, o qual beneficia ambas as partes que buscam e oferecem trabalhos. O projeto foi criado em angular e node.js, utilizando o MongoDB para armazenar os dados dos usuários e anúncios.
 
