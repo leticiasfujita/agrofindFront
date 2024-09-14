@@ -6,7 +6,7 @@
 - author: Leticia
 - categories: Blog
 - tags: ["Agricultura", "Tecnologia", "Anúncios", "Serviços", "Negócios"]
-- linkblog: "Link do blog sobre o AgroFind"
+- linkblog: "[https://sites.google.com/edu.unifil.br/agrofind/agrofind]"
 
 O projeto tem como propósito criar uma plataforma para o agronegócio capaz de integrar agricultores e provedores de serviços, o qual beneficia ambas as partes que buscam e oferecem trabalhos. O projeto foi criado em angular e node.js, utilizando o MongoDB para armazenar os dados dos usuários e anúncios.
 
@@ -19,3 +19,18 @@ O projeto tem como propósito criar uma plataforma para o agronegócio capaz de 
 - **Listagem dos Anúncios:** Os anúncios cadastrados são exibidos na tela principal, permitindo ao usuário visualizar as informações dos anúncios.
 
 - **Visualização dos Anúncios cadastrados:** Os usuários podem verificar os seus anúncios.
+  
+### Como o AgroFind contribui para o agronegócio?
+Com o AgroFind, produtores rurais têm à disposição uma plataforma para buscar os serviços de que precisam, economizando tempo e dinheiro. Os fornecedores de serviços agrícolas ganham a oportunidade de divulgar suas disponibilidades para trabalho, ampliando sua visibilidade no mercado e alcançando mais serviços. Dessa forma, a plataforma conecta produtores e prestadores de serviços, facilitando a busca.
+
+Para Inicializar 
+front-end ionic angular
+- npm install
+
+para startar
+- ionic serve --lab
+
+back-end em node.js
+- npm install
+- cd src
+- node index.js
