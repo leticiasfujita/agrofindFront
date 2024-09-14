@@ -23,7 +23,7 @@ O projeto tem como propósito criar uma plataforma para o agronegócio capaz de 
 ### Como o AgroFind contribui para o agronegócio?
 Com o AgroFind, produtores rurais têm à disposição uma plataforma para buscar os serviços de que precisam, economizando tempo e dinheiro. Os fornecedores de serviços agrícolas ganham a oportunidade de divulgar suas disponibilidades para trabalho, ampliando sua visibilidade no mercado e alcançando mais serviços. Dessa forma, a plataforma conecta produtores e prestadores de serviços, facilitando a busca.
 
-Para Inicializar 
+### Para Inicializar:
 front-end ionic angular
 - npm install
 
