@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapp=self.webpackChunkapp||[]).push([[5440],{5440:(P,s,t)=>{t.r(s),t.d(s,{startStatusTap:()=>i});var r=t(9204),o=t(5634),_=t(8710),a=t(1895);const i=()=>{const e=window;e.addEventListener("statusTap",()=>{(0,o.e)(()=>{const d=document.elementFromPoint(e.innerWidth/2,e.innerHeight/2);if(!d)return;const n=(0,_.f)(d);n&&new Promise(c=>(0,a.c)(n,c)).then(()=>{(0,o.w)((0,r.A)(function*(){n.style.setProperty("--overflow","hidden"),yield(0,_.s)(n,300),n.style.removeProperty("--overflow")}))})})})}}}]);
+//# sourceMappingURL=5440.a9537e54b85ebc9d.js.map
